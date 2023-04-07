@@ -32,9 +32,3 @@ components: {
   TabContent
 }
 ```
-
-### Buy my a Pizza
-
-You have an option to buy me a pizza if you found this plugin useful
-
-https://www.buymeacoffee.com/wLrF3Z0tE
